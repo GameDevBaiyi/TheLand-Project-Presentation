@@ -15,6 +15,11 @@
 
 
 
-3. 大师系统. 新系统, 是该项目为数不多的大型功能, 由本人开发. 
+3. 大师系统. 新系统, 是该项目为数不多的大型功能, 由本人开发.
 
-4. 精灵系统. 新系统. 
+   ![Master1](https://github.com/GameDevBaiyi/TheLand-Project-Presentation/assets/100526832/6fea653d-d638-4ac5-8fb2-60d5c68fa631)
+
+   ![Master2](https://github.com/GameDevBaiyi/TheLand-Project-Presentation/assets/100526832/5e69484f-33d0-47b3-80c7-dc6d54bbc6ef)
+
+
+5. 精灵系统. 新系统. 
