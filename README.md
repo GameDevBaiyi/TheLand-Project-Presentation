@@ -4,7 +4,7 @@
 
 本人开发或维护的部分功能演示: 
 1. 新手引导. 老功能, 由本人维护.
-   ![Uploading Tutorial1.gif…]()
+   ![Tutorial1](https://github.com/GameDevBaiyi/TheLand-Project-Presentation/assets/100526832/a2b01fca-3ec7-4ee5-83f8-ce6d84af0bb0)
 
 
 3. 大师系统. 新系统, 是该项目为数不多的大型功能, 由本人开发. 
