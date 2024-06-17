@@ -1,5 +1,5 @@
 # TheLand-Project-Presentation
-安卓 IOS 端手游 The Land, 仅作为项目展示. 
+安卓 IOS 端手游 The Land, 部分代码及功能展示. 
 
 项目描述: 该项目使用 NGUI. 开发过程比较有趣, 它原本由韩国人开发, 后来被日本人买断, 然后又外包给我们二次换皮开发. 由于该项目的原本版本非常古老, 使用的各种插件和 SDK 升级困难, 文档难寻, 架构不严谨, 开发和维护的成本都极高. 
 
@@ -25,4 +25,6 @@
 
    ![Elf1](https://github.com/GameDevBaiyi/TheLand-Project-Presentation/assets/100526832/46b5fdb0-f0f3-4875-8abd-fa015d442b03)
 
-4. 游戏上线后, 还实现了各种充值活动, 排行榜等等. 这些功能比较简单, 也是标准的手游前端工作内容, 太多就不过多展示了. 
+4. 各种 SDK 接入, 如 IronSource, TalkingData, Adjust 等等. 
+
+5. 游戏上线后, 还实现了各种充值活动, 排行榜等等. 这些功能比较简单, 也是标准的手游前端工作内容, 太多就不过多展示了. 
