@@ -4,6 +4,7 @@
 
 本人开发或维护的部分功能演示: 
 1. 新手引导. 老功能, 由本人维护.
+
    ![Tutorial1](https://github.com/GameDevBaiyi/TheLand-Project-Presentation/assets/100526832/a2b01fca-3ec7-4ee5-83f8-ce6d84af0bb0)
 
 
